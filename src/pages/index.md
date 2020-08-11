@@ -9,10 +9,8 @@ mainpitch:
   description: >
     We are a boutique software development company specializing in rapid
     development using the latest mobile and web development technologies. 
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: KChannels is a software development company dedicated to helping
+  business make use of the latest mobile and web development technologies.
 intro:
   blurbs:
     - image: /img/coffee.png
